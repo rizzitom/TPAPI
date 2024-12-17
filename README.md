@@ -1,16 +1,10 @@
 # tp5_api
 
-A new Flutter project.
+Projet Flutter pour maitriser les API
 
-## Getting Started
+## Fonctionnalités
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Le projet permet de rechercher des films en utilisant l'API OMDb et d'afficher les détails d'un film sélectionné (titre, année, description, image, etc.) en cliquant dessus.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
